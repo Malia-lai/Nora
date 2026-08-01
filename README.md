@@ -19,7 +19,7 @@ Nora is an AI chatbot that recommends skincare ingredients based on your specifi
 
 ## Project Structure
 
-<a href="https://huggingface.co/spaces/kode-with-klossy/3.4-groupD1-capstone">Canva</a> link for the presentation of our team and the chatbot as a capstone project for our participation to Kode With Klossy.
+<a href="https://canva.link/k4gqdeaig0ig3bm">Canva</a> link for the presentation of our team and the chatbot as a capstone project for our participation to Kode With Klossy.
 
 ```
 nora/
